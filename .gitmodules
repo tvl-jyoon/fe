@@ -1,0 +1,6 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/tvl-jyoon/data
+[submodule "reactProto"]
+	path = reactProto
+	url = https://github.com/tvl-jyoon/reactProto
